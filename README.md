@@ -11,9 +11,8 @@ This application allows the user to input data into a text area that persists wh
 3. When the user clicks save, the data persists and will show even when the page is refreshed.
 4. The user can delete their data when the task is completed or leave it and based off of the hour of the day it will become a "past task".
 
-![Work Day Scheduler](images/workdayscheduler.jpg)
+![Work Day Scheduler](05-third-party-apis-homework-demo.gif)
 
-![Work Day Scheduler](images/workdayscheduler2.png)
 
 ## Credits
 
