@@ -4,7 +4,7 @@ Link to live site: [Work Day Scheduler](https://epalermobootcamp.github.io/sched
 
 ## Description
 
-This application allows the user to input data into a text area that persists when the page refreshes. The text areas are also color-coded which tells the user if the text area/data is in the past, present or future.
+This application allows the user to input data into a text area that persists when the page refreshes. The text areas are also color-coded which tells the user if the text area/data is in the past, present or future. The DayJS library is used to work with date and time.
 
 1. User clicks in a text area and inputs data they want to save by clicking the save button.
 2. The color of the text area will indicate whether that text area is the past hour, present hour or future hour.
